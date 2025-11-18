@@ -6,7 +6,7 @@ This repository is the official implementation for our paper, **"Adaptive Contro
 
 ## 1. Installation
 
-Our project is built upon the official [3D-HGS](https://github.com/hli-plus/3D-HGS) repository.
+Our project is built upon the official [3D-HGS](https://github.com/lihaolin88/3DHGS) repository.
 
 **a. Clone the repository:**
 ```bash
@@ -51,3 +51,4 @@ python render.py -m ./output --skip_train
 python render.py -m ./output --skip_train --eval
 
 ```
+
