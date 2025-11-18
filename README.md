@@ -10,7 +10,7 @@ Our project is built upon the official [3D-HGS](https://github.com/hli-plus/3D-H
 
 **a. Clone the repository:**
 ```bash
-git clone https://github.com/UserXiongWX/Adaptive-GS.git
+git clone git@github.com:Archaic-Atom/Adaptive-GS.git
 ```
 
 **b. Create and activate a Conda environment:**
@@ -49,4 +49,5 @@ python render.py -m ./output --skip_train
 
 # Evaluate metrics on the test set
 python render.py -m ./output --skip_train --eval
+
 ```
